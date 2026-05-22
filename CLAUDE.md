@@ -11,7 +11,7 @@ Monorepo for Google AdSense compliance checking tools.
 - Key commands: `npm run build -w adsense-check-core`, `npm run typecheck -w adsense-check-core`
 
 ### adsense-check-cli (CLI tool)
-- Package: `@cloudcreate/adsense-check-cli`
+- Package: `@cloudcreate/adsense-check`
 - Terminal interface wrapping core library
 - Built with TypeScript, Commander.js, Playwright
 - Key commands: `npm run dev -w adsense-check-cli`, `npm run build -w adsense-check-cli`
