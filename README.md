@@ -10,10 +10,10 @@ Monorepo for Google AdSense website compliance checking tools.
 
 | Package | Description | npm |
 |---------|-------------|-----|
-| [`@cloudcreate/adsense-check`](./adsense-check-cli/) | CLI tool — install and run in your terminal | `npm i -g @cloudcreate/adsense-check` |
-| [`@cloudcreate/adsense-check-core`](./adsense-check-core/) | Core library — crawling, checks, AI analysis, scoring | `npm i @cloudcreate/adsense-check-core` |
-| [`@cloudcreate/adsense-check-api`](./adsense-check-api/) | Cloudflare Worker API — AI proxy + analysis endpoints | Deploy to Cloudflare Workers |
-| [`@cloudcreate/adsense-check-test`](./adsense-check-test/) | Test suite — integration and e2e tests | (not published) |
+| [`@cloudcreate/adsense-check`](https://github.com/cloudcreate-ai/adsense-checklist) | CLI tool — install and run in your terminal | `npm i -g @cloudcreate/adsense-check` |
+| [`@cloudcreate/adsense-check-core`](https://github.com/cloudcreate-ai/adsense-check-core) | Core library — crawling, checks, AI analysis, scoring | `npm i @cloudcreate/adsense-check-core` |
+| [`@cloudcreate/adsense-check-api`](https://github.com/cloudcreate-ai/adsense-check-api) | Cloudflare Worker API — AI proxy + analysis endpoints | Deploy to Cloudflare Workers |
+| [`@cloudcreate/adsense-check-test`](https://github.com/cloudcreate-ai/adsense-check-test) | Test suite — integration and e2e tests | (not published) |
 
 ## Architecture
 
