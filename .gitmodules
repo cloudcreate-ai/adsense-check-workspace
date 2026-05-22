@@ -1,0 +1,12 @@
+[submodule "adsense-check-core"]
+	path = adsense-check-core
+	url = git@github.com:cloudcreate-ai/adsense-check-core.git
+[submodule "adsense-check-cli"]
+	path = adsense-check-cli
+	url = git@github.com:cloudcreate-ai/adsense-checklist.git
+[submodule "adsense-check-api"]
+	path = adsense-check-api
+	url = git@github.com:cloudcreate-ai/adsense-check-api.git
+[submodule "adsense-check-test"]
+	path = adsense-check-test
+	url = git@github.com:cloudcreate-ai/adsense-check-test.git

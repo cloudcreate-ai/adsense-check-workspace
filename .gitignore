@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.log
+.env
+.env.*
+.dev.vars
+.wrangler/
+.claude/
+coverage/
+backup/

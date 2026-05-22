@@ -1,0 +1,10 @@
+{
+  "name": "adsense-check-workspace",
+  "private": true,
+  "workspaces": [
+    "adsense-check-core",
+    "adsense-check-cli",
+    "adsense-check-api",
+    "adsense-check-test"
+  ]
+}
